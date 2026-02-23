@@ -126,7 +126,7 @@ class V449_Integrated_Kernel:
 
 # 산출 알고리즘: SHA-512
 
-SUBJECT_IDENTIFIER = "d5c6b98e721098f21743...[생체 데이터 결합 해시 128자]"
+SUBJECT_IDENTIFIER = "d5c6b98e721098f2174301a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4[생체 데이터 결합 해시 128자]"
 
 
 
