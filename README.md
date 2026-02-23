@@ -9,4 +9,8 @@
 
 ## Immutable Identity
 This kernel is valid only when initialized with the hash derived from the 
+
 original binary streams of the subject's biometric data.
+
+bafkreiffbeglnyry5yczdcpln6ia5j67hkxcyqxlcenhqrczh7o24f5fkq
+bafkreih7cn2vszpztyxol7ow5d2z52iznln3doarjqvi5onc5kv2yzozmq
